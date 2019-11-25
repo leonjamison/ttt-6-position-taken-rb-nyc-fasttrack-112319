@@ -3,4 +3,7 @@ def position_taken?
   if "[index_number] != [" "]"
     puts !=
   end
+  board[index]
+  if "[index] == [" "] | | [""]"
+    puts !=
 end
