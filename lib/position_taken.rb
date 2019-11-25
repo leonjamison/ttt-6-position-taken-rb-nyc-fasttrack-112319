@@ -4,7 +4,7 @@ def position_taken?
   #   puts !=
   # end
   board[index]
-  if "[index] == [" "] | | [""]"
+  if "[index] == [" "] || [""] || [nil]" 
     puts !=
   end
 end
