@@ -6,4 +6,5 @@ def position_taken?
   board[index]
   if "[index] == [" "] | | [""]"
     puts !=
+  end
 end
